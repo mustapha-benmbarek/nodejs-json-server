@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Michael",
+      "lastName": "Douglas",
+      "email": "john@gmail.com",
+      "age": 34,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Mark",
+      "lastName": "Williams",
+      "email": "mark@gmail.com",
+      "age": 33,
+      "companyId": "1"
+    },
+    {
+      "id": "3",
+      "firstName": "Sara",
+      "lastName": "Smith",
+      "email": "sara@gmail.com",
+      "age": 23,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Brad",
+      "lastName": "Traversy",
+      "age": 35,
+      "email": "test@test.com",
+      "companyId": "3",
+      "id": "B1Ww3BIS-"
+    }
+  ],
+
+  "vehicles": [
+    {
+      "id": "1",
+      "make": "Porshe",
+      "model": "911",
+      "version": "911 Carrera",
+      "engine": "3.5L"
+    },
+    {
+      "id": "2",
+      "make": "Porshe",
+      "model": "911",
+      "version": "911 Carrera GTS",
+      "engine": "3.5L"
+    },
+    {
+      "id": "3",
+      "make": "Porshe",
+      "model": "911",
+      "version": "911 Carrera GTS Cabriolet",
+      "engine": "3.5L"
+    },
+    {
+      "id": "4",
+      "make": "BMW",
+      "model": "320 Series",
+      "version": "320i Turbo",
+      "engine": "2.5L"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple"
+    },
+    {
+      "id": "2",
+      "name": "Microsoft"
+    },
+    {
+      "id": "3",
+      "name": "Google"
+    }
+  ]
+}

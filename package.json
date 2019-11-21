@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-json-server",
+  "private": true,
+  "description": "A simple json server program with json-server module.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json",
+    "json:server:remote": "json-server http://jsonplaceholder.typicode.com/db"
+  },
+  "author": "Mustapha Benmbarek",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
